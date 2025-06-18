@@ -50,3 +50,7 @@ Purpose: Assesses team-level performance and resource allocation.Business Impact
   Reveals seasonal trends in resource usage.
   Highlights top-performing teams and employees.
   Supports strategic planning and operational efficiency.
+  
+Here you can get the file to download : https://github.com/EzazHaider/Capex/blob/main/Capex%20sample.pbit
+Here is the Screenshot of the report (Fisrt page) 
+https://github.com/EzazHaider/Capex/blob/main/Capex.PNG
