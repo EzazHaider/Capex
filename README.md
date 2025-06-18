@@ -53,6 +53,5 @@ Purpose: Assesses team-level performance and resource allocation.Business Impact
   
 Here you can get the file to download : https://github.com/EzazHaider/Capex/blob/main/Capex%20sample.pbit
 
-Here is the Screenshot of the report (Fisrt page)
-
+Dashboard Preview link: 
 https://github.com/EzazHaider/Capex/blob/main/Capex.PNG
